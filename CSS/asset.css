@@ -1,0 +1,54 @@
+/* exteral css */
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: normal;
+    font-size: 14px;
+    background-color: blanchedalmond;
+}
+
+main {
+    margin: 0;
+    text-align: justify;
+    padding: 10px 10px;
+}
+
+#description_img {
+    padding-left: 5%;
+    width: 20%;
+    height: 180px;
+    border-radius: 4px;
+}
+
+table thead tr th {
+    padding: 8px;
+    width: 80%;
+}
+
+table tbody tr td {
+    width: 80%;
+    padding: 8px;
+}
+
+.food_photos {
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    padding: 5px 5px 100px 5px;
+    color: #000;
+    border-radius: 10px;
+}
+
+.food_photos img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(250, 192, 171);
+    color: #000;
+    margin: 0;
+    padding: 10px;
+}
